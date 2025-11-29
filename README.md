@@ -1,5 +1,4 @@
 # Virtualmouse
-📌 Overview
 This Virtual Mouse project uses your webcam and hand gesture recognition to control the mouse pointer in real time. With Python and computer vision, it detects the movement of your index finger to move the cursor and recognizes a "click" gesture when the index finger and thumb come close together.
 
 🧠 Features
